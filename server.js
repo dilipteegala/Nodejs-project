@@ -105,6 +105,6 @@ app.put('/image',function(req,res){
     }
 })
 
-app.listen(3000,function(){
+app.listen(9000,function(){
     console.log('server started running on port 3000');
 })
